@@ -69,7 +69,7 @@ referenced html file to 'BODY_CONTENT'. The rest is all taken care of.
 
 
 ------------
-###Modal Views
+###Modal View Pages
 
 * 
 
